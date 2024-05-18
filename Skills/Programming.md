@@ -32,15 +32,15 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
+  - Value: 🎓 known
+  - Identifier: 🎓 known
+  - Variable: 🎓 known
   - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Scalar: 🎓 known
+  - Literal: 🎓 known
+  - Expression: 🎓 known
   - Heap
-  - Function
+  - Function: 🎓 known
   - Procedure
   - Method
   - Class
@@ -51,7 +51,7 @@
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
+  - Loops: 🎓 known
   - Assignment
   - Regular expression
   - Interface
@@ -81,10 +81,10 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
+  - Signature: 🎓 known
+  - Argument: 🎓 known
+  - Parameter: 🎓 known
+  - Pure function: 🎓 known
   - Lambda expression
   - Side effects
   - Closure
@@ -105,7 +105,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array: 🎓 known
   - Structure
   - Record
   - Enum
