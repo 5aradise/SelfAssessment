@@ -1,0 +1,130 @@
+## Go
+
+- Language
+  - `main()`: 🖐️ used
+  - `init()`: 🖐️ used
+  - `:=`: 🖐️ used
+  - `_`: 🖐️ used
+  - `_, ok :=`: 🖐️ used
+  - `error`: 🖐️ used
+  - `if err != nil`: 🖐️ used
+  - `any`: 🖐️ used
+  - `nil`: 🖐️ used 
+  - `iota`: 🎓 known 
+  - `interface{}`: 🎓 known
+  - `struct{}`: 🎓 known
+  - `append()`: 🖐️ used
+  - `len()`: 🖐️ used
+  - `cap()`: 🖐️ used
+  - `make()`: 🖐️ used
+  - `new()`: 🎓 known
+  - `clear()`: 🖐️ used
+  - `delete()`: 🖐️ used
+  - `close()`: 🎓 known
+  - `complex()`: 🎓 known
+  - `real()`: 🎓 known
+  - `imag()`: 🎓 known
+  - `max()`: 🎓 known
+  - `min()`: 🎓 known
+  - `panic()`: 🎓 known
+  - `recover()`: 👂 heard
+  - `...spread`: 🖐️ used
+  - `...rest`: 🖐️ used
+  - Pointers: 🖐️ used
+  - Struct methods: 🖐️ used
+  - Generics: 🖐️ used
+  - Type parametrs: 🖐️ used
+  - Go modules: 🖐️ used
+- Statements
+  - `package`: 🖐️ used
+  - `const`: 🖐️ used
+  - `var`: 🖐️ used
+  - `if/else`: 🖐️ used
+  - `switch/case`: 🖐️ used
+  - `default`: 🎓 known
+  - `fallthrough`: 🎓 known
+  - `for`: 🖐️ used
+  - `range`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `break`: 🖐️ used
+  - `type`: 🖐️ used
+  - `struct`: 🖐️ used
+  - `interface`: 🖐️ used
+  - `map`: 🖐️ used
+  - `import`: 🖐️ used
+  - `func`: 🖐️ used
+  - `defer`: 🖐️ used
+  - `return`: 🖐️ used
+  - `go`: 🖐️ used
+  - `chan`: 🖐️ used
+  - `select/case`: 🎓 known
+  - `default`: 🎓 known
+- Data types
+  - `bool`: 🖐️ used
+  - `byte`: 🖐️ used
+  - `int`: 🖐️ used
+  - `int8/16/32/64`: 🖐️ used
+  - `uint`: 🖐️ used
+  - `uint8/16/32/64`: 🖐️ used
+  - `float32/64`: 🖐️ used
+  - `complex64/128`: 🎓 known
+  - `uintptr`: 🎓 known
+  - `string`: 🖐️ used
+  - `rune`: 🎓 known
+- Data structures
+  - `array`: 🖐️ used
+  - `slice`: 🖐️ used
+  - `map`: 🖐️ used
+  - `struct`: 🖐️ used
+- Standard library
+  - bufio: 🖐️ used
+  - bytes
+  - cmp
+  - context
+  - crypto
+  - embed
+  - encoding: 🖐️ used
+  - errors: 🖐️ used
+  - expvar
+  - flag
+  - fmt: 🖐️ used
+  - hash
+  - html
+  - image
+  - io: 🎓 known
+  - log: 🖐️ used
+  - maps: 🎓 known
+  - math: 🖐️ used
+  - mime
+  - net: 🖐️ used
+  - os: 🖐️ used
+  - path: 🖐️ used
+  - plugin
+  - reflect
+  - regexp: 🖐️ used
+  - runtime
+  - slices: 🖐️ used
+  - sort: 🎓 known
+  - strconv: 🖐️ used
+  - strings: 🖐️ used
+  - sync: 🖐️ used
+  - syscall: 👂 heard
+  - testing: 🎓 known
+  - time: 🖐️ used
+  - unicode
+  - unsafe
+- Concurrency
+  - Goroutines: 🖐️ used
+  - Channels: 🖐️ used
+  - Buffered channels: 🖐️ used
+  - Range: 🖐️ used
+  - Close channel: 🎓 known
+  - Select: 🎓 known
+  - Mutex: 🖐️ used
+  - Atomic: 👂 heard
+  - WaitGroups: 🖐️ used
+  - Deadlock: 🎓 known
+  - Worker pools: 🎓 known
+- Internals and concepts
+  - Strong and weak sides of Go: 🎓 known
+  - Goroutine vs thread: 🎓 known
