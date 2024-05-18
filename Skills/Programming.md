@@ -4,33 +4,33 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
   - Semantics
   - Abstraction
-  - Paradigm
+  - Paradigm: 🖐️ used
   - Programm
-  - Programming paradigm
-  - Programming language
+  - Programming paradigm: 🖐️ used
+  - Programming language: 🖐️ used
   - Contract
-  - Module
-  - Library
-  - Package
+  - Module: 🖐️ used
+  - Library: 🖐️ used
+  - Package: 🖐️ used
   - Component
-  - Framework
+  - Framework: 🎓 known
   - Platform
-  - Source code
+  - Source code: 🖐️ used
   - Object code
-  - Machine code
+  - Machine code: 🎓 known
   - Microcode
-  - Software engineering
-  - Decomposition
+  - Software engineering: 🖐️ used
+  - Decomposition: 🖐️ used
   - Control flow
   - Data flow
-  - Code reuse
-  - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Code reuse: 🖐️ used
+  - Defensive programming: 👂 heard
+  - Don't repeat yourself (DRY): 🖐️ used
+  - KISS principle: 👂 heard
 - Syntax and concepts
   - Value: 🖐️ used
   - Identifier: 🖐️ used
@@ -53,33 +53,33 @@
   - Conditions: 🖐️ used
   - Loops: 🖐️ used
   - Assignment: 🖐️ used
-  - Regular expression: 🎓 known
+  - Regular expression: 🖐️ used
   - Interface: 🖐️ used
-  - Namespaces
+  - Namespaces: 🖐️ used
   - Call stack: 🖐️ used
   - Naming conventions: 🖐️ used
-  - Coding conventions: 👂 heard
+  - Coding conventions: 🎓 known
   - Camel case: 🖐️ used
   - Snake case: 🖐️ used
-  - Kebab case
-  - Trailing commas
+  - Kebab case: 🎓 known
+  - Trailing commas: 🖐️ used
   - Return early: 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
-  - Nominal typing
-  - Structural typing
-  - Explicit typing
-  - Type inference
-  - Covariance
-  - Contravariance
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
+  - Type systems: 🖐️ used
+  - Strong typing: 🖐️ used
+  - Weak typing: 🖐️ used
+  - Duck typing: 👂 heard
+  - Static typing: 🖐️ used
+  - Dynamic typing: 🖐️ used
+  - Nominal typing: 🖐️ used
+  - Structural typing: 🖐️ used
+  - Explicit typing: 🖐️ used
+  - Type inference: 🖐️ used
+  - Covariance: 🖐️ used
+  - Contravariance: 🖐️ used
 - Functions
   - Signature: 🖐️ used
   - Argument: 🖐️ used
@@ -94,7 +94,7 @@
   - Recursion: 🖐️ used
   - Tail call optimisation
   - Callback: 🖐️ used
-  - Listener: 🎓 known
+  - Listener: 🖐️ used
   - Composition: 🎓 known
   - Pipe
   - Memoize: 🖐️ used
@@ -103,61 +103,61 @@
   - Monad
   - Monoid
   - Generator: 🖐️ used
-  - Coroutine
+  - Coroutine: 🖐️ used
 - Data structures
   - Array: 🖐️ used
-  - Structure
-  - Record
-  - Enum
-  - Instance
+  - Structure: 🖐️ used
+  - Record: 🖐️ used
+  - Enum: 🖐️ used
+  - Instance: 🖐️ used
   - Object: 🖐️ used
   - Collection: 🖐️ used
   - Set: 🖐️ used
   - Hash table: 🖐️ used
-  - Linked list: 🎓 known
-  - Doubly list: 🎓 known
-  - Unrolled list: 👂 heard
+  - Linked list: 🖐️ used
+  - Doubly list: 🖐️ used
+  - Unrolled list: 🖐️ used
   - Circular list: 🎓 known
-  - Queue: 🎓 known
-  - Stack: 🎓 known
+  - Queue: 🖐️ used
+  - Stack: 🖐️ used
   - Deque
   - Tree: 🎓 known
-  - Graph: 👂 heard
+  - Graph: 🖐️ used
   - Iterator: 🖐️ used
   - Mutable state: 🖐️ used
   - Immutable state: 🖐️ used
-  - Serialization
+  - Serialization: 🖐️ used
   - String parsing: 🖐️ used
   - JSON: 🖐️ used
   - JSON5
-  - YAML
+  - YAML: 👂 heard
 - Networking
-  - DNS
+  - DNS: 🖐️ used
   - CDN
   - CORS
-  - IPv4: 👂 heard
-  - IPv6
-  - NAT
-  - URL: 👂 heard
+  - IPv4: 🖐️ used
+  - IPv6: 🖐️ used
+  - NAT: 🖐️ used
+  - URL: 🖐️ used
   - URN
-  - URI
+  - URI: 🎓 known
 - Process and tools
   - Compiler: 🖐️ used
-  - Just-in-time compilation
+  - Just-in-time compilation: 🖐️ used
   - Ahead-of-time compilation
   - Transpiler: 👂 heard
   - Linter
   - Polyfill: 🎓 known
-  - Interpreter
+  - Interpreter: 🖐️ used
   - Linker
   - Dynamic linking
   - Static linking
   - Runtime: 👂 heard
-  - Virtual machine
+  - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger: 👂 heard
+  - Debugger: 🎓 known
   - Tracing
   - Garbage collection: 🎓 known
   - Refactoring: 🎓 known
@@ -166,54 +166,54 @@
   - Unittesting: 👂 heard
   - git: 🖐️ used
   - Github: 🖐️ used
-  - Docker: 👂 heard
-  - Kubernetes
-  - GCC
-  - LLVM
+  - Docker: 🎓 known
+  - Kubernetes: 👂 heard
+  - GCC: 👂 heard
+  - LLVM: 👂 heard
 - Antipatterns
-  - Magic numbers: 🖐️ used
-  - Hard code: 🖐️ used
+  - Magic numbers: 🎓 known
+  - Hard code: 🎓 known
   - Soft code: 👂 heard
-  - Cryptic code
+  - Cryptic code: 🎓 known
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti: 🎓 known
   - Silver bullet
   - Not invented here
-  - Dead code: 🖐️ used
-  - Unreachable code: 🖐️ used
-  - Duplicate code: 🖐️ used
+  - Dead code: 🎓 known
+  - Unreachable code: 🎓 known
+  - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
   - Nested loops: 🖐️ used
-  - Long method/function/procedure
+  - Long method/function/procedure: 🎓 known
   - Long inheritance
-  - Large class/file: 🖐️ used
-  - Too many parameters
-  - Pass-through parameters
+  - Large class/file: 🎓 known
+  - Too many parameters: 🎓 known
+  - Pass-through parameters: 🎓 known
   - Accumulate and fire
-  - Use switch/case: 🖐️ used
-  - Temporary field
-  - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
+  - Use switch/case: 🎓 known
+  - Temporary field: 👂 heard
+  - Handle object as instances and hashes at the same time: 👂 heard
+  - Use fields instead of arguments: 🎓 known
   - Data clump
   - Feature envy
   - Monkey patch
-  - Yo-yo problem
+  - Yo-yo problem: 🎓 known
 - Runtimes and virtual machines
-  - Bytecode
+  - Bytecode: 🎓 known
   - V8: 👂 heard
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers: 🎓 known
   - Kernel
   - Ring
   - Virtual memory
-  - File system
+  - File system: 🖐️ used
   - Linux
   - Unix
   - BSD
@@ -222,18 +222,18 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
-  - Escape sequence
+  - ASCII: 🖐️ used
+  - Escape sequence: 🖐️ used
   - RFC
   - IETF
-  - IANA
+  - IANA: 👂 heard
   - IEEE
-  - Base64
+  - Base64: 👂 heard
   - ECMA
-  - ICANN
-  - ISO
+  - ICANN: 👂 heard
+  - ISO: 👂 heard
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG
