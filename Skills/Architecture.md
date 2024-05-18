@@ -1,15 +1,15 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
   - GRASP
-  - SOLID
+  - SOLID: 👂 heard
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code: 👂 heard
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -21,19 +21,19 @@
   - Reliability
   - Quality
   - Availability
-  - Flexibility
+  - Flexibility: 🖐️ used
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer: 🎓 known
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach
+  - Multilayer approach: 👂 heard
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
   - Dependency injection (DI)
-  - Clean architecture
+  - Clean architecture: 👂 heard
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
@@ -70,11 +70,11 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds: 👂 heard
   - BPMN
-  - Low-code
-  - No-code
-  - Metric
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
+  - Metric: 👂 heard
   - Metric abuse
   - ACID
   - CAP theorem
@@ -88,13 +88,13 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices: 🎓 known
   - Process choreography
   - Service orchestration
-  - Data warehouse
+  - Data warehouse: 👂 heard
   - Business Intelligence
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance: 🎓 known
   - Engineering Hygiene
