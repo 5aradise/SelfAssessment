@@ -25,7 +25,7 @@
   - Chaining: 🖐️ used
   - Optional chaining: 🎓 known
   - IIFE: 🎓 known
-  - Async IIFE
+  - Async IIFE: 🖐️ used
   - `global`: 🎓 known
   - `globalThis`: 🎓 known
   - `window`: 🎓 known
@@ -38,7 +38,7 @@
   - Bitwise operators: 🖐️ used
   - Ternary operator: 🖐️ used
   - `void`
-  - `yield`
+  - `yield`: 🎓 known
   - `await`: 🎓 known
   - Template literal
   - Strict mode: 🖐️ used
@@ -48,15 +48,15 @@
   - `super`: 🖐️ used
   - `eval`
   - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields: 🎓 known
-  - Static class fields: 🎓 known
-  - Private class fields: 🎓 known
+  - Instance class fields: 🖐️ used
+  - Static class fields: 🖐️ used
+  - Private class fields: 🖐️ used
   - Private class methods: 🎓 known
 - Statements
   - `if`: 🖐️ used
@@ -80,7 +80,7 @@
   - `new`: 🖐️ used
 - Functions
   - Arrow function: 🖐️ used
-  - Async function: 🎓 known
+  - Async function: 🖐️ used
   - Function declaration: 🖐️ used
   - Function expression: 🖐️ used
   - Default parameters: 🖐️ used
@@ -101,7 +101,7 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`: 👂 heard
-  - `Date`: 🎓 known
+  - `Date`: 🖐️ used
   - `Math`: 🖐️ used
   - `Reflect`
   - `Error`: 🖐️ used
@@ -115,8 +115,8 @@
   - Timers: 🖐️ used
 - Infrastructure
   - V8: 👂 heard
-  - Node.js: 👂 heard
-  - npm: 👂 heard
+  - Node.js: 🎓 known
+  - npm: 🖐️ used
   - prettier: 🖐️ used
   - MDN: 🖐️ used
   - TC39
