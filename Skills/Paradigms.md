@@ -2,22 +2,22 @@
 
 - Theory
   - Procedural programming: 👂 heard
-  - Imperative programming
+  - Imperative programming: 🎓 known
   - Structured programming
   - Non-structured programming
-  - Functional programming: 👂 heard
+  - Functional programming: 🎓 known
   - Prototype-based programming
-  - Object-oriented programming: 👂 heard
-  - Object-based programming
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 👂 heard
   - Generic programming
-  - Concurrent computing
-  - Asynchronous programming: 👂 heard
+  - Concurrent computing: 🖐️ used
+  - Asynchronous programming: 🖐️ used
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming: 👂 heard
+  - Multi-paradigm programming: 🎓 known
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -31,20 +31,20 @@
   - Operator `new`: 🖐️ used
   - Static method: 🖐️ used
   - Method: 🖐️ used
-  - Async method
+  - Async method: 🖐️ used
   - Getters, Setters: 🖐️ used
-  - Public fields: 🎓 known
-  - Private fields: 🎓 known
-  - Field declarations
-  - Inheritance
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
-  - Polymorphism: 👂 heard
+  - Polymorphis: 🎓 known
   - Abstract class
-  - Interface: 👂 heard
-  - Encapsulation
+  - Interface: 🖐️ used
+  - Encapsulation: 🎓 known
   - Hidden class
   - Object form
-  - Instance
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
