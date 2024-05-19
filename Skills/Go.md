@@ -113,6 +113,17 @@
   - time: 🖐️ used
   - unicode
   - unsafe
+- Libraries and frameworks
+  - Protobuf
+  - gRPC-go
+  - Gorm
+  - Gin
+  - Beego
+  - Echo
+  - Gofiber
+  - Go-kit
+  - Gorilla
+  - Fyne-io
 - Concurrency
   - Goroutines: 🖐️ used
   - Channels: 🖐️ used
@@ -125,6 +136,14 @@
   - WaitGroups: 🖐️ used
   - Deadlock: 🎓 known
   - Worker pools: 🎓 known
+- Network
+  - TCP/SSL: 🖐️ used
+  - UDP: 🎓 known
+  - REST: 🖐️ used
+  - gRPC: 👂 heard
+  - Websocket: 👂 heard
 - Internals and concepts
   - Strong and weak sides of Go: 🎓 known
   - Goroutine vs thread: 🎓 known
+  - Scheduler: 👂 heard
+  - Array vs slice: 🎓 known

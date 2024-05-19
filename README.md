@@ -7,6 +7,7 @@ This _knowledge assessment_ can be used as an automated tool for **tracking** an
 ## Skills
 
 - [Programming fundamentals](Skills/Programming.md)
+- [Go](Skills/Go.md)
 - [JavaScript](Skills/JavaScript.md)
 - [Asynchronous programming](Skills/Async.md)
 - [Node.js and Backend](Skills/NodeJS.md)
