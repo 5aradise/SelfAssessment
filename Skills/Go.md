@@ -30,11 +30,19 @@
   - `recover()`: 👂 heard
   - `...spread`: 🖐️ used
   - `...rest`: 🖐️ used
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical assignment: 🖐️ used
+  - Bitwise operators: 🖐️ used
+  - Private/public functions, methods, types and variables: 🖐️ used
+  - Error handling: 🖐️ used
+  - Testing: 👂 heard
   - Pointers: 🖐️ used
   - Struct methods: 🖐️ used
   - Generics: 🖐️ used
   - Type parametrs: 🖐️ used
   - Go modules: 🖐️ used
+  - Graceful shutdown: 👂 heard
 - Statements
   - `package`: 🖐️ used
   - `const`: 🖐️ used
@@ -76,6 +84,11 @@
   - `slice`: 🖐️ used
   - `map`: 🖐️ used
   - `struct`: 🖐️ used
+  - Time: 🎓 known
+  - JSON: 🖐️ used
+  - Protocol Buffers: 🎓 known
+  - XML
+  - YAML
 - Standard library
   - bufio: 🖐️ used
   - bytes
@@ -123,7 +136,7 @@
   - Gofiber
   - Go-kit
   - Gorilla
-  - Fyne-io
+  - Fyne-io: 🖐️ used
 - Concurrency
   - Goroutines: 🖐️ used
   - Channels: 🖐️ used
@@ -147,3 +160,4 @@
   - Goroutine vs thread: 🎓 known
   - Scheduler: 👂 heard
   - Array vs slice: 🎓 known
+  - Garbage collection: 👂 heard
