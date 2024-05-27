@@ -74,7 +74,7 @@
   - BPMN
   - Low-code: 👂 heard
   - No-code: 👂 heard
-  - Metric: 👂 heard
+  - Metric
   - Metric abuse
   - ACID
   - CAP theorem
@@ -88,7 +88,7 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices: 🎓 known
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse: 👂 heard
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance: 🎓 known
+  - Quality assurance: 👂 heard
   - Engineering Hygiene

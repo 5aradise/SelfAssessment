@@ -65,7 +65,7 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API: 🖐️ used
+  - Fetch API: 👂 heard
   - IncomingMessage
   - HTTP(S)
   - TCP/SSL
@@ -90,7 +90,7 @@
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging: 🖐️ used
+  - Logging: 👂 heard
   - Application configuring
   - Testing
   - CI/CD
@@ -99,7 +99,7 @@
   - Transform
   - Back pressure
   - Buffer
-  - Console: 🖐️ used
+  - Console: 👂 heard
   - Inspector
 - Data access
   - Data access layer

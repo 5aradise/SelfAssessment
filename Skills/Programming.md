@@ -186,7 +186,7 @@
   - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
-  - Nested loops: 🖐️ used
+  - Nested loops: 🎓 known
   - Long method/function/procedure: 🎓 known
   - Long inheritance
   - Large class/file: 🎓 known
@@ -209,7 +209,7 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers: 🎓 known
+  - Drivers: 👂 heard
   - Kernel
   - Ring
   - Virtual memory

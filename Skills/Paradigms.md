@@ -17,7 +17,7 @@
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming: 🎓 known
+  - Multi-paradigm programming: 👂 heard
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -38,10 +38,10 @@
   - Field declarations: 🖐️ used
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
-  - Polymorphis: 🎓 known
+  - Polymorphis: 🖐️ used
   - Abstract class
   - Interface: 🖐️ used
-  - Encapsulation: 🎓 known
+  - Encapsulation: 🖐️ used
   - Hidden class
   - Object form
   - Instance: 🖐️ used
@@ -74,13 +74,13 @@
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator: 🖐️ used
+  - Iterator
   - State
   - Bridge
   - Builder
-  - Prototype: 🎓 known
+  - Prototype
   - Composite
-  - Decorator: 🖐️ used
+  - Decorator
   - Flyweight
   - Mediator
   - Memento

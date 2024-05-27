@@ -10,7 +10,7 @@
   - `if err != nil`: 🖐️ used
   - `any`: 🖐️ used
   - `nil`: 🖐️ used 
-  - `iota`: 🎓 known 
+  - `iota`: 🖐️ used 
   - `interface{}`: 🎓 known
   - `struct{}`: 🎓 known
   - `append()`: 🖐️ used
@@ -20,14 +20,14 @@
   - `new()`: 🎓 known
   - `clear()`: 🖐️ used
   - `delete()`: 🖐️ used
-  - `close()`: 🎓 known
+  - `close()`: 🖐️ used
   - `complex()`: 🎓 known
   - `real()`: 🎓 known
   - `imag()`: 🎓 known
   - `max()`: 🎓 known
   - `min()`: 🎓 known
   - `panic()`: 🎓 known
-  - `recover()`: 👂 heard
+  - `recover()`: 🎓 known
   - `...spread`: 🖐️ used
   - `...rest`: 🖐️ used
   - Equality operators: 🖐️ used
@@ -76,9 +76,9 @@
   - `uint8/16/32/64`: 🖐️ used
   - `float32/64`: 🖐️ used
   - `complex64/128`: 🎓 known
-  - `uintptr`: 🎓 known
+  - `uintptr`: 👂 heard
   - `string`: 🖐️ used
-  - `rune`: 🎓 known
+  - `rune`: 👂 heard
 - Data structures
   - `array`: 🖐️ used
   - `slice`: 🖐️ used
@@ -124,7 +124,7 @@
   - syscall: 👂 heard
   - testing: 🎓 known
   - time: 🖐️ used
-  - unicode
+  - unicode: 🖐️ used
   - unsafe
 - Libraries and frameworks
   - Protobuf
@@ -142,7 +142,7 @@
   - Channels: 🖐️ used
   - Buffered channels: 🖐️ used
   - Range: 🖐️ used
-  - Close channel: 🎓 known
+  - Close channel: 🖐️ used
   - Select: 🎓 known
   - Mutex: 🖐️ used
   - Atomic: 👂 heard
