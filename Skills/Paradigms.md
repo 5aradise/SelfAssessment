@@ -2,16 +2,16 @@
 
 - Theory
   - Procedural programming: 👂 heard
-  - Imperative programming
+  - Imperative programming: 🎓 known
   - Structured programming
   - Non-structured programming
-  - Functional programming: 👂 heard
+  - Functional programming: 🎓 known
   - Prototype-based programming
-  - Object-oriented programming: 👂 heard
-  - Object-based programming
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 👂 heard
   - Generic programming
-  - Concurrent computing
-  - Asynchronous programming: 👂 heard
+  - Concurrent computing: 🖐️ used
+  - Asynchronous programming: 🖐️ used
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
@@ -31,20 +31,20 @@
   - Operator `new`: 🖐️ used
   - Static method: 🖐️ used
   - Method: 🖐️ used
-  - Async method
+  - Async method: 🖐️ used
   - Getters, Setters: 🖐️ used
-  - Public fields: 🎓 known
-  - Private fields: 🎓 known
-  - Field declarations
-  - Inheritance
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
-  - Polymorphism: 👂 heard
+  - Polymorphis: 🖐️ used
   - Abstract class
-  - Interface: 👂 heard
-  - Encapsulation
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
   - Hidden class
   - Object form
-  - Instance
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
@@ -74,13 +74,13 @@
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator: 🖐️ used
+  - Iterator
   - State
   - Bridge
   - Builder
-  - Prototype: 🎓 known
+  - Prototype
   - Composite
-  - Decorator: 🖐️ used
+  - Decorator
   - Flyweight
   - Mediator
   - Memento

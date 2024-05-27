@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
@@ -11,14 +11,14 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 👂 heard
+  - Module `node:module`: 👂 heard
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -65,7 +65,7 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API: 👂 heard
   - IncomingMessage
   - HTTP(S)
   - TCP/SSL
@@ -90,7 +90,7 @@
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging: 👂 heard
   - Application configuring
   - Testing
   - CI/CD
@@ -99,7 +99,7 @@
   - Transform
   - Back pressure
   - Buffer
-  - Console
+  - Console: 👂 heard
   - Inspector
 - Data access
   - Data access layer
@@ -110,7 +110,7 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error`: 🖐️ used
   - `error.cause`
   - `error.code`
   - `error.message`

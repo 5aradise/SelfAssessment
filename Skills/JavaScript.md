@@ -23,11 +23,11 @@
   - Async generator: 👂 heard
   - Async iterator: 👂 heard
   - Chaining: 🖐️ used
-  - Optional chaining: 🎓 known
+  - Optional chaining: 👂 heard
   - IIFE: 🎓 known
-  - Async IIFE
+  - Async IIFE: 🖐️ used
   - `global`: 🎓 known
-  - `globalThis`: 🎓 known
+  - `globalThis`: 👂 heard
   - `window`: 🎓 known
   - Getters and setters: 🖐️ used
   - `__proto__`: 🎓 known
@@ -38,7 +38,7 @@
   - Bitwise operators: 🖐️ used
   - Ternary operator: 🖐️ used
   - `void`
-  - `yield`
+  - `yield`: 👂 heard
   - `await`: 🎓 known
   - Template literal
   - Strict mode: 🖐️ used
@@ -48,15 +48,15 @@
   - `super`: 🖐️ used
   - `eval`
   - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields: 🎓 known
-  - Static class fields: 🎓 known
-  - Private class fields: 🎓 known
+  - Instance class fields: 🖐️ used
+  - Static class fields: 🖐️ used
+  - Private class fields: 🖐️ used
   - Private class methods: 🎓 known
 - Statements
   - `if`: 🖐️ used
@@ -65,13 +65,13 @@
   - `for`: 🖐️ used
   - `for..in`: 🖐️ used
   - `for..of`: 🖐️ used
-  - `for await`: 🎓 known
+  - `for await`: 👂 heard
   - `throw`: 🖐️ used
   - `break`: 🖐️ used
   - `continue`: 🖐️ used
   - `import`: 🖐️ used
   - `export`: 🖐️ used
-  - `label`: 🎓 known
+  - `label`: 👂 heard
   - `try..catch`: 🖐️ used
   - `switch`: 🖐️ used
   - `class`: 🖐️ used
@@ -80,28 +80,28 @@
   - `new`: 🖐️ used
 - Functions
   - Arrow function: 🖐️ used
-  - Async function: 🎓 known
+  - Async function: 🖐️ used
   - Function declaration: 🖐️ used
   - Function expression: 🖐️ used
   - Default parameters: 🖐️ used
   - Functional object: 🖐️ used
-  - `Function.prototype.call`: 👂 heard
-  - `Function.prototype.bind`: 👂 heard
-  - `Function.prototype.apply`: 👂 heard
+  - `Function.prototype.call`
+  - `Function.prototype.bind`
+  - `Function.prototype.apply`
   - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
   - `Map`: 🖐️ used
   - `Set`: 🖐️ used
-  - `WeakMap`: 🎓 known
-  - `WeakSet`: 🎓 known
+  - `WeakMap`: 👂 heard
+  - `WeakSet`: 👂 heard
   - Typed arrays: 👂 heard
   - Mixins: 🖐️ used
-  - `Object.assign`: 🖐️ used
+  - `Object.assign`: 👂 heard
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`: 👂 heard
-  - `Date`: 🎓 known
+  - `Date`: 🖐️ used
   - `Math`: 🖐️ used
   - `Reflect`
   - `Error`: 🖐️ used
@@ -118,5 +118,5 @@
   - Node.js: 👂 heard
   - npm: 👂 heard
   - prettier: 🖐️ used
-  - MDN: 🖐️ used
+  - MDN: 👂 heard
   - TC39

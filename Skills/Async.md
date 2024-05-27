@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
+  - Event loop: 👂 heard
   - `try..catch`: 🖐️ used
   - Non-blocking
-  - Async I/O
+  - Async I/O: 🖐️ used
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -13,28 +13,28 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks
+  - Race conditions: 🖐️ used
+  - Dead locks: 🖐️ used
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 🖐️ used
   - Actor Model
-  - Thread
+  - Thread: 🖐️ used
   - Process
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise: 🎓 known
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
   - Event
-  - Coroutine
-  - Goroutine
+  - Coroutine: 🖐️ used
+  - Goroutine: 🖐️ used
   - Signal
   - Stream
   - Chain of responsibility
@@ -56,7 +56,7 @@
   - Async Queue
   - Async Collector
   - Semaphore
-  - Mutex
+  - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
@@ -68,8 +68,8 @@
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell: 🎓 known
+  - Promise hell: 🎓 known
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await

@@ -1,13 +1,13 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types: 🎓 known
   - Performance tuning
-  - Migrations
-  - Schema versioning
+  - Migrations: 👂 heard
+  - Schema versioning: 👂 heard
   - Backup and recovery
   - Database scalability
-  - Relational databases
+  - Relational databases: 🎓 known
   - Key-value store
   - Tuple store
   - Graph databases
