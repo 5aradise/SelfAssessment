@@ -9,8 +9,8 @@
   - `error`: 🖐️ used
   - `if err != nil`: 🖐️ used
   - `any`: 🖐️ used
-  - `nil`: 🖐️ used 
-  - `iota`: 🖐️ used 
+  - `nil`: 🖐️ used
+  - `iota`: 🖐️ used
   - `interface{}`: 🎓 known
   - `struct{}`: 🎓 known
   - `append()`: 🖐️ used
@@ -66,7 +66,6 @@
   - `go`: 🖐️ used
   - `chan`: 🖐️ used
   - `select/case`: 🎓 known
-  - `default`: 🎓 known
 - Data types
   - `bool`: 🖐️ used
   - `byte`: 🖐️ used
@@ -82,8 +81,6 @@
 - Data structures
   - `array`: 🖐️ used
   - `slice`: 🖐️ used
-  - `map`: 🖐️ used
-  - `struct`: 🖐️ used
   - Time: 🎓 known
   - JSON: 🖐️ used
   - Protocol Buffers: 🎓 known
